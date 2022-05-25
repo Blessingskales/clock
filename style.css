@@ -1,0 +1,29 @@
+body {
+    font-size: 15px;
+    background-color: black;
+    margin: 0%;
+    padding: 0%;
+}
+
+.container{
+  color: white;
+  font-weight: bold;
+  transform:translate(-50%, -50%);
+  font-size: 75px;
+  top: 50%;
+  left:50%;
+  position:absolute;
+  
+}
+
+#greet{
+  color: darkgoldenrod;
+}
+
+#a{
+  color: grey;
+}
+
+#b{
+  color:grey;
+};
